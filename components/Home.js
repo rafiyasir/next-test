@@ -36,19 +36,19 @@ const Home = () => {
         <div className="container">
             <ul>
                 <li>
-                    <img src="../images/person.jpg" alt="Person" />
+                    <img src="/images/person.jpg" alt="Person" />
                     <blockquote>Lorem ipsum dolor sit amet consectetur adipisicing elit. Error quidem eveniet facere dolorem culpa facilis aliquam perspiciatis dolore vero, beatae fugiat voluptatem odio in quia suscipit harum eligendi optio vel!</blockquote>
                     <cite>- Rafi Uzzaman</cite>
                 </li>
 
                 <li>
-                    <img src="../images/person.jpg" alt="Person" />
+                    <img src="/images/person.jpg" alt="Person" />
                     <blockquote>Lorem ipsum dolor sit amet consectetur adipisicing elit. Error quidem eveniet facere dolorem culpa facilis aliquam perspiciatis dolore vero, beatae fugiat voluptatem odio in quia suscipit harum eligendi optio vel!</blockquote>
                     <cite>- Rafi Uzzaman</cite>
                 </li>
 
                 <li>
-                    <img src="../images/person.jpg" alt="Person" />
+                    <img src="/images/person.jpg" alt="Person" />
                     <blockquote>Lorem ipsum dolor sit amet consectetur adipisicing elit. Error quidem eveniet facere dolorem culpa facilis aliquam perspiciatis dolore vero, beatae fugiat voluptatem odio in quia suscipit harum eligendi optio vel!</blockquote>
                     <cite>- Rafi Uzzaman</cite>
                 </li>
